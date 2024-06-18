@@ -1,0 +1,65 @@
+Order_ID,Tanggal_Pembelian,Produk,Harga,Metode_Pembayaran,Lokasi_Pelanggan
+1001,2024-01-05,ProdukA,50,Kartu Kredit,Jakarta
+1002,2024-01-07,ProdukB,30,Transfer Bank,Bandung
+1003,2024-01-10,ProdukA,50,Kartu Kredit,Surabaya
+1004,2024-02-15,ProdukC,70,Tunai,Jakarta
+1005,2024-02-20,ProdukB,30,Kartu Kredit,Bandung
+1006,2024-03-05,ProdukA,50,Transfer Bank,Surabaya
+1007,2024-03-10,ProdukC,70,Kartu Kredit,Jakarta
+1008,2024-04-18,ProdukB,30,Tunai,Bandung
+1009,2024-04-25,ProdukA,50,Kartu Kredit,Surabaya
+1010,2024-05-03,ProdukC,70,Transfer Bank,Jakarta
+1011,2024-05-08,ProdukB,30,Kartu Kredit,Bandung
+1012,2024-06-20,ProdukA,50,Tunai,Surabaya
+1013,2024-06-25,ProdukB,30,Transfer Bank,Jakarta
+1014,2024-07-01,ProdukA,50,Kartu Kredit,Bandung
+1015,2024-07-10,ProdukC,70,Transfer Bank,Surabaya
+1016,2024-08-15,ProdukB,30,Tunai,Jakarta
+1017,2024-08-20,ProdukA,50,Kartu Kredit,Bandung
+1018,2024-09-05,ProdukC,70,Transfer Bank,Surabaya
+1019,2024-09-10,ProdukB,30,Kartu Kredit,Jakarta
+1020,2024-10-18,ProdukA,50,Transfer Bank,Bandung
+1021,2024-10-25,ProdukC,70,Tunai,Surabaya
+1022,2024-11-03,ProdukB,30,Kartu Kredit,Jakarta
+1023,2024-11-08,ProdukA,50,Transfer Bank,Bandung
+1024,2024-12-20,ProdukC,70,Kartu Kredit,Surabaya
+1025,2024-12-25,ProdukB,30,Tunai,Jakarta
+1026,2025-01-05,ProdukA,50,Kartu Kredit,Surabaya
+1027,2025-01-10,ProdukC,70,Transfer Bank,Bandung
+1028,2025-02-15,ProdukB,30,Tunai,Surabaya
+1029,2025-02-20,ProdukA,50,Kartu Kredit,Jakarta
+1030,2025-03-05,ProdukC,70,Transfer Bank,Bandung
+1031,2025-03-10,ProdukB,30,Kartu Kredit,Surabaya
+1032,2025-04-18,ProdukA,50,Tunai,Jakarta
+1033,2025-04-25,ProdukC,70,Kartu Kredit,Bandung
+1034,2025-05-03,ProdukB,30,Transfer Bank,Surabaya
+1035,2025-05-08,ProdukA,50,Kartu Kredit,Jakarta
+1036,2025-06-20,ProdukC,70,Transfer Bank,Surabaya
+1037,2025-06-25,ProdukB,30,Tunai,Jakarta
+1038,2025-07-01,ProdukA,50,Kartu Kredit,Bandung
+1039,2025-07-10,ProdukC,70,Transfer Bank,Surabaya
+1040,2025-08-15,ProdukB,30,Kartu Kredit,Jakarta
+1041,2025-08-20,ProdukA,50,Tunai,Bandung
+1042,2025-09-05,ProdukC,70,Kartu Kredit,Surabaya
+1043,2025-09-10,ProdukB,30,Transfer Bank,Jakarta
+1044,2025-10-18,ProdukA,50,Kartu Kredit,Bandung
+1045,2025-10-25,ProdukC,70,Transfer Bank,Surabaya
+1046,2025-11-03,ProdukB,30,Tunai,Jakarta
+1047,2025-11-08,ProdukA,50,Kartu Kredit,Surabaya
+1048,2025-12-20,ProdukC,70,Transfer Bank,Bandung
+1049,2025-12-25,ProdukB,30,Kartu Kredit,Jakarta
+1050,2026-01-05,ProdukA,50,Tunai,Surabaya
+1051,2026-01-10,ProdukC,70,Kartu Kredit,Bandung
+1052,2026-02-15,ProdukB,30,Transfer Bank,Surabaya
+1053,2026-02-20,ProdukA,50,Kartu Kredit,Jakarta
+1054,2026-03-05,ProdukC,70,Tunai,Bandung
+1055,2026-03-10,ProdukB,30,Kartu Kredit,Surabaya
+1056,2026-04-18,ProdukA,50,Transfer Bank,Jakarta
+1057,2026-04-25,ProdukC,70,Kartu Kredit,Bandung
+1058,2026-05-03,ProdukB,30,Tunai,Surabaya
+1059,2026-05-08,ProdukA,50,Kartu Kredit,Jakarta
+1060,2026-06-20,ProdukC,70,Transfer Bank,Bandung
+1061,2026-06-25,ProdukB,30,Kartu Kredit,Surabaya
+1062,2026-07-01,ProdukA,50,Tunai,Jakarta
+1063,2026-07-10,ProdukC,70,Kartu Kredit,Bandung
+1064,2026-08-15,ProdukB,30,Transfer Bank,Surabaya
